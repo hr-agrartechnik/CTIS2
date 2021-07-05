@@ -1,2 +1,1 @@
-# CTIS2
-CTIS2
+# CTIS
