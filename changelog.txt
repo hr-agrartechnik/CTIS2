@@ -1,2 +1,2 @@
-UPDATE TEST CHANGELOG
-SECOND LINE
+Warning = 0 deaktiviert das Warning (außer für minimal Druck).
+Window Mask Hintergrund ändert sich nun analog zum Ventil Zustand.
