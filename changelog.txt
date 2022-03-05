@@ -1,2 +1,1 @@
-Warning = 0 deaktiviert das Warning (außer für minimal Druck).
-Window Mask Hintergrund ändert sich nun analog zum Ventil Zustand.
+Performance Verbesserungen die Abstürze des Systemes verhindern sollen.
