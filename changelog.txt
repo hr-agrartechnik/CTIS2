@@ -1,2 +1,1 @@
-Performance Verbesserungen die Abstuerze des Systems verhindern sollen.
-Fehler behoben der die Warnung für unterschrittenen Druck mehrmals aufgerufen hat.
+Unerwartete Fehler temporaer verhindern.
