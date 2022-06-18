@@ -1,1 +1,3 @@
-Unerwartete Fehler temporaer verhindern.
+OTA Funktion
+Anhänger Modus
+Sicherheitskontrolle
