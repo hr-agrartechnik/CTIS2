@@ -1,3 +1,2 @@
-OTA Funktion
-Anhänger Modus
-Sicherheitskontrolle
+Bug fixes
+Ersparter Arbeitsspeicher 
